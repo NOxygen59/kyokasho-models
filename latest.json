@@ -1,6 +1,6 @@
 {
-  "version": "0.8.1",
-  "build": 14,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.1",
-  "notes": "Boutons de page réparés, furigana cliquables dans le texte extrait, nouvelle icône."
+  "version": "0.8.2",
+  "build": 15,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.2",
+  "notes": "PDF photo : dictionnaire juste, furigana propres, nettoyage des scans ; mise en page par modèle."
 }
