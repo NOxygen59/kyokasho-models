@@ -1,6 +1,6 @@
 {
-  "version": "0.8.2",
-  "build": 15,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.2",
-  "notes": "PDF photo : dictionnaire juste, furigana propres, nettoyage des scans ; mise en page par modèle."
+  "version": "0.8.3",
+  "build": 16,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.3",
+  "notes": "Furigana lisibles, recherche dans la page, définitions en français, notes flottantes ancrées, mise à jour par TrollStore."
 }
