@@ -1,6 +1,6 @@
 {
-  "version": "0.8.3",
-  "build": 16,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.3",
-  "notes": "Furigana lisibles, recherche dans la page, définitions en français, notes flottantes ancrées, mise à jour par TrollStore."
+  "version": "0.8.3.1",
+  "build": 17,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.3.1",
+  "notes": "Fusion de PDF sur l'iPad : ordre au glisser, enregistrement dans Fichiers ou import dans la bibliothèque."
 }
