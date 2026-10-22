@@ -1,6 +1,6 @@
 {
-  "version": "0.8.4.1",
-  "build": 19,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.4.1",
-  "notes": "Correctif : la 0.8.4 plantait au lancement sur iOS 16."
+  "version": "0.8.4.2",
+  "build": 20,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.4.2",
+  "notes": "Correctif : l'IA locale (OvisOCR2, GLM-OCR) marche sur iOS 16 ; mode diagnostic."
 }
