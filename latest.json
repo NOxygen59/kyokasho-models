@@ -1,6 +1,6 @@
 {
-  "version": "0.8.7",
-  "build": 26,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.7",
-  "notes": "IA : mémoire rendue quand on ne s'en sert pas, tâches qui continuent en changeant de page (pastille, arrêt confirmé) ; panneau d'étude détachable et stable."
+  "version": "0.8.8",
+  "build": 27,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.8",
+  "notes": "Traduction Qwen réparée sur iOS 16, document lu par l'IA à l'import, furigana et caractères douteux d'après l'IA, thèmes à fonds dessinés."
 }
