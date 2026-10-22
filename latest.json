@@ -1,6 +1,6 @@
 {
-  "version": "0.8.8",
-  "build": 27,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.8",
-  "notes": "Traduction Qwen réparée sur iOS 16, document lu par l'IA à l'import, furigana et caractères douteux d'après l'IA, thèmes à fonds dessinés."
+  "version": "0.8.9",
+  "build": 28,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.9",
+  "notes": "Exporter un document, ajouter des pages, place prise et effacer le cache, une page par IA, chat avec Qwen3-VL."
 }
