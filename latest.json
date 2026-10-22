@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
-  "build": 31,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.9.0",
-  "notes": "Teintes des pages préchargées, sombre intelligent (expérimental), fenêtre OCR à déplacement libre."
+  "version": "1.0.0",
+  "build": 32,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.0.0",
+  "notes": "Pages de même taille, portrait / paysage automatique, furigana sans fond."
 }
