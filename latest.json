@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "build": 32,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.0.0",
-  "notes": "Pages de même taille, portrait / paysage automatique, furigana sans fond."
+  "version": "1.1.0",
+  "build": 33,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.1.0",
+  "notes": "Pages préparées une seule fois, pagination Auto / Simple / Double."
 }
