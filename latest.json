@@ -1,6 +1,6 @@
 {
-  "version": "0.8.6",
-  "build": 25,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.6",
-  "notes": "Mise en page IA (OvisOCR2) et traduction française hors ligne (Qwen3-VL-4B), page ou document entier."
+  "version": "0.8.7",
+  "build": 26,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.7",
+  "notes": "IA : mémoire rendue quand on ne s'en sert pas, tâches qui continuent en changeant de page (pastille, arrêt confirmé) ; panneau d'étude détachable et stable."
 }
