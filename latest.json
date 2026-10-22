@@ -1,6 +1,6 @@
 {
-  "version": "0.8.9",
-  "build": 28,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.9",
-  "notes": "Exporter un document, ajouter des pages, place prise et effacer le cache, une page par IA, chat avec Qwen3-VL."
+  "version": "0.8.9.1",
+  "build": 29,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.9.1",
+  "notes": "Toucher sans attente, zoom fluide en page par page (premier essai, désactivable dans Affichage), lexique du domaine."
 }
