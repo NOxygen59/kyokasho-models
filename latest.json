@@ -1,6 +1,6 @@
 {
-  "version": "0.8.9.1",
-  "build": 29,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.9.1",
-  "notes": "Toucher sans attente, zoom fluide en page par page (premier essai, désactivable dans Affichage), lexique du domaine."
+  "version": "0.8.9.2",
+  "build": 30,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v0.8.9.2",
+  "notes": "Gestes du mode Pencil en mode normal (retour arrière du zoom fluide), teinte des pages instantanée sans flash."
 }
