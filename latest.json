@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "build": 34,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.1.1",
-  "notes": "Thèmes affinés, réglages simplifiés, fenêtre texte OCR et conservation du zoom, cartes de la page."
+  "version": "1.2",
+  "build": 35,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.2",
+  "notes": "Transitions de la fenêtre OCR, dictionnaire partagé, activité des IA et furigana des scans."
 }
