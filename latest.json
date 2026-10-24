@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "build": 38,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.2.3",
-  "notes": "Chat recentré sur les questions du manuel, furigana verticaux dans le panneau Texte et relecture OCR accessible."
+  "version": "1.2.4",
+  "build": 39,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.2.4",
+  "notes": "Chat sur la page demandée, corrections OCR du document entier, formules lisibles, furigana verticaux, fenêtre OCR et trackpad améliorés."
 }
