@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "build": 39,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.2.4",
-  "notes": "Chat sur la page demandée, corrections OCR du document entier, formules lisibles, furigana verticaux, fenêtre OCR et trackpad améliorés."
+  "version": "1.3",
+  "build": 40,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.3",
+  "notes": "OCR japonais amélioré, langue du document choisie à l'import et réglages OCR clarifiés."
 }
