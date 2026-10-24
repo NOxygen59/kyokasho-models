@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "build": 36,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.2.1",
-  "notes": "Chat Qwen sur les pages lues par OvisOCR2, avec références au manuel."
+  "version": "1.2.2",
+  "build": 37,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.2.2",
+  "notes": "Chat dans le lecteur, conversations par livre, pages ouvrables et Qwen3.5-4B en option."
 }
