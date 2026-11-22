@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "build": 40,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.3",
-  "notes": "OCR japonais amélioré, langue du document choisie à l'import et réglages OCR clarifiés."
+  "version": "1.6.2",
+  "build": 101,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.6.2",
+  "notes": "Lecteur en fondu court, recherche en carte, travaux arrêtés à la fermeture d'un document et relevé du processeur plus précis en mode diagnostic."
 }
