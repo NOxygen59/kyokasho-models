@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
-  "build": 101,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.6.2",
-  "notes": "Lecteur en fondu court, recherche en carte, travaux arrêtés à la fermeture d'un document et relevé du processeur plus précis en mode diagnostic."
+  "version": "1.6.3",
+  "build": 114,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.6.3",
+  "notes": "Finalité des grandes optimisations : le gel du processeur est corrigé, un livre fermé est maintenant libéré."
 }
