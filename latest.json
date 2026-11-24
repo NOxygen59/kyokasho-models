@@ -1,6 +1,6 @@
 {
-  "version": "1.6.3",
-  "build": 114,
-  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.6.3",
-  "notes": "Finalité des grandes optimisations : le gel du processeur est corrigé, un livre fermé est maintenant libéré."
+  "version": "1.6.5",
+  "build": 126,
+  "page": "https://github.com/NOxygen59/kyokasho/releases/tag/v1.6.5",
+  "notes": "Correctifs de la refonte : un livre fermé est de nouveau libéré, la recherche trouve aussi le texte de la mise en page IA, Reprendre se replie en pastilles."
 }
